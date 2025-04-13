@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ### 🏆 Achievements and Works
 - 🏅 **Achievements:**
-    - Lead Developer and Captain of OTIS MTMC year-5 project on Inclusive Mobility Using AI. Secured First in India, and 5th in Asia.
+    - Lead Developer and Captain of OTIS MTMC year-5 project on Inclusive Mobility Using AI. Secured First position in India, and 5th in Asia.
 
 - 💼 **Works:**
     - 1st project- MEDIVANCE (will be on my repo)
