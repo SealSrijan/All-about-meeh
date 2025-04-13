@@ -14,6 +14,16 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - **Languages:** C, Python, HTML(basics)
 - **Other Skills:** Problem-solving, teamwork, Critical-thinking
 
+### 🏆 Achievements and Works
+- 🏅 **Achievements:**
+    - Lead Developer and Captain of OTIS MTMC year-5 project on Inclusive Mobility Using AI. Secured First in India, and 5th in Asia.
+
+- 💼 **Works:**
+    - 1st project- MEDIVANCE (will be on my repo)
+    - 2nd project- FogSight (cannot publish)
+    - Completed multiple online courses on Python and C programming.
+    - Built small projects like a calculator, matrix calculator, few logic games etc.
+
 ### 📫 How to Reach Me
 - 📧 Email: creative.ideas1610@gmail.com
 - 💼 Looking for: Some mentors and teachers to teach more python skills, interested to learn different modules along with django..
